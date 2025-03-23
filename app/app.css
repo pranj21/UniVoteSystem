@@ -1,0 +1,11 @@
+
+
+
+.background {
+  background-image: url('bg_image.avif');  /* Make sure the path is correct */
+  background-size: cover;  /* Cover the whole background */
+  background-position: center;  /* Center the background image */
+  height: 100%;  /* Ensure body takes full height */
+  margin: 0;  /* Remove default margin */
+}
+

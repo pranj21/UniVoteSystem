@@ -1,0 +1,384 @@
+2025-03-17 08:07:06,434 - INFO - ✅ Face Processing Script Started.
+2025-03-17 08:07:06,570 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-17 08:07:48,776 - INFO - 🔍 Processing voter images from database...
+2025-03-17 08:07:48,791 - INFO - ✅ Voter Faces Processed: 1
+2025-03-17 08:07:48,823 - INFO - ✅ Face data processing complete!
+2025-03-17 08:07:48,823 - INFO - ✔️ Voter Faces: 1
+2025-03-17 08:07:48,823 - INFO - ✔️ LFW Faces: 13344
+2025-03-17 08:07:48,824 - INFO - ⚠️ Skipped Images: 411
+2025-03-17 10:06:32,432 - INFO - ✅ Face Processing Script Started.
+2025-03-17 10:06:32,567 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-17 10:07:16,838 - INFO - 🔍 Processing voter images from database...
+2025-03-17 10:07:16,854 - INFO - ✅ Voter Faces Processed: 1
+2025-03-17 10:07:16,892 - INFO - ✅ Face data processing complete!
+2025-03-17 10:07:16,892 - INFO - ✔️ Voter Faces: 1
+2025-03-17 10:07:16,892 - INFO - ✔️ LFW Faces: 13344
+2025-03-17 10:07:16,892 - INFO - ⚠️ Skipped Images: 411
+2025-03-17 10:28:33,229 - INFO - ✅ Face Processing Script Started.
+2025-03-17 10:28:33,362 - INFO - 🔍 Processing voter images from database...
+2025-03-17 10:28:33,384 - INFO - ✅ Voter Faces Processed: 1
+2025-03-17 10:28:33,384 - INFO - ✅ Face data processing complete!
+2025-03-17 10:28:33,384 - INFO - ✔️ Voter Faces: 1
+2025-03-17 10:28:33,384 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 00:56:34,913 - INFO - ✅ Face Processing Script Started.
+2025-03-19 00:56:35,036 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 00:57:20,972 - INFO - 🔹 Processing voters images from database...
+2025-03-19 00:57:21,002 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 00:57:21,038 - INFO - ✅ Face data processing complete!
+2025-03-19 00:57:21,038 - INFO - ✔️ Voter Faces: 2
+2025-03-19 00:57:21,038 - INFO - ✔️ Candidate Faces: 0
+2025-03-19 00:57:21,038 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 00:57:21,038 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 00:57:21,038 - INFO - ✅ Image processing completed successfully!
+2025-03-19 02:03:36,759 - INFO - ✅ Face Processing Script Started.
+2025-03-19 02:03:36,895 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 02:03:36,912 - INFO - ✅ Face data processing complete!
+2025-03-19 02:03:36,912 - INFO - ✔️ Voter Faces: 0
+2025-03-19 02:03:36,912 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 02:03:36,912 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 02:03:36,912 - INFO - ✅ Image processing completed successfully!
+2025-03-19 11:44:15,968 - INFO - ✅ Face Processing Script Started.
+2025-03-19 11:44:16,102 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 11:44:16,139 - INFO - ✅ Face data processing complete!
+2025-03-19 11:44:16,139 - INFO - ✔️ Voter Faces: 0
+2025-03-19 11:44:16,139 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 11:44:16,139 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 11:44:16,139 - INFO - ✅ Image processing completed successfully!
+2025-03-19 11:47:45,659 - INFO - ✅ Face Processing Script Started.
+2025-03-19 11:47:45,795 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 11:47:45,825 - INFO - ✅ Face data processing complete!
+2025-03-19 11:47:45,825 - INFO - ✔️ Voter Faces: 0
+2025-03-19 11:47:45,825 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 11:47:45,825 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 11:47:45,825 - INFO - ✅ Image processing completed successfully!
+2025-03-19 11:48:52,195 - INFO - ✅ Face Processing Script Started.
+2025-03-19 11:48:52,330 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 11:48:52,361 - INFO - ✅ Face data processing complete!
+2025-03-19 11:48:52,361 - INFO - ✔️ Voter Faces: 0
+2025-03-19 11:48:52,361 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 11:48:52,361 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 11:48:52,361 - INFO - ✅ Image processing completed successfully!
+2025-03-19 12:12:52,215 - INFO - ✅ Face Processing Script Started.
+2025-03-19 12:12:52,352 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 12:13:38,094 - INFO - 🔹 Processing voters images from database...
+2025-03-19 12:13:38,125 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 12:13:38,196 - INFO - ✅ Face data processing complete!
+2025-03-19 12:13:38,196 - INFO - ✔️ Voter Faces: 2
+2025-03-19 12:13:38,196 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 12:13:38,196 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 12:13:38,196 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 12:13:38,197 - INFO - ✅ Image processing completed successfully!
+2025-03-19 12:20:06,961 - INFO - ✅ Face Processing Script Started.
+2025-03-19 12:20:07,099 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 12:20:53,669 - INFO - 🔹 Processing voters images from database...
+2025-03-19 12:20:53,701 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 12:20:53,767 - INFO - ✅ Face data processing complete!
+2025-03-19 12:20:53,767 - INFO - ✔️ Voter Faces: 2
+2025-03-19 12:20:53,767 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 12:20:53,767 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 12:20:53,767 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 12:20:53,767 - INFO - ✅ Image processing completed successfully!
+2025-03-19 12:33:39,991 - INFO - ✅ Face Processing Script Started.
+2025-03-19 12:33:40,136 - INFO - 🔹 Processing voters images from database...
+2025-03-19 12:33:40,172 - INFO - ✅ Face data processing complete!
+2025-03-19 12:33:40,172 - INFO - ✔️ Voter Faces: 2
+2025-03-19 12:33:40,172 - INFO - ✔️ Candidate Faces: 0
+2025-03-19 12:33:40,173 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 12:33:40,173 - INFO - ✅ Image processing completed successfully!
+2025-03-19 12:39:52,814 - INFO - ✅ Face Processing Script Started.
+2025-03-19 12:39:52,952 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 12:40:38,218 - INFO - 🔹 Processing voters images from database...
+2025-03-19 12:40:38,249 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 12:40:38,314 - INFO - ✅ Face data processing complete!
+2025-03-19 12:40:38,314 - INFO - ✔️ Voter Faces: 2
+2025-03-19 12:40:38,314 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 12:40:38,314 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 12:40:38,314 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 12:40:38,314 - INFO - ✅ Image processing completed successfully!
+2025-03-19 12:48:16,953 - INFO - ✅ Face Processing Script Started.
+2025-03-19 12:48:17,094 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 12:49:02,412 - INFO - 🔹 Processing voters images from database...
+2025-03-19 12:49:02,474 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 12:49:02,549 - INFO - ✅ Face data processing complete!
+2025-03-19 12:49:02,549 - INFO - ✔️ Voter Faces: 2
+2025-03-19 12:49:02,549 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 12:49:02,549 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 12:49:02,549 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 12:49:02,550 - INFO - ✅ Image processing completed successfully!
+2025-03-19 15:39:01,622 - INFO - ✅ Face Processing Script Started.
+2025-03-19 15:39:01,762 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 15:39:01,781 - INFO - ✅ Face data processing complete!
+2025-03-19 15:39:01,781 - INFO - ✔️ Voter Faces: 0
+2025-03-19 15:39:01,781 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 15:39:01,781 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 15:39:01,781 - INFO - ✅ Image processing completed successfully!
+2025-03-19 15:45:53,216 - INFO - ✅ Face Processing Script Started.
+2025-03-19 15:45:53,353 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 15:45:53,369 - INFO - ✅ Face data processing complete!
+2025-03-19 15:45:53,369 - INFO - ✔️ Voter Faces: 0
+2025-03-19 15:45:53,369 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 15:45:53,369 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 15:45:53,369 - INFO - ✅ Image processing completed successfully!
+2025-03-19 18:18:51,666 - INFO - ✅ Face Processing Script Started.
+2025-03-19 18:18:51,803 - INFO - 🔍 Processing images from LFW dataset...
+2025-03-19 18:19:38,173 - INFO - 🔹 Processing voters images from database...
+2025-03-19 18:19:38,189 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 18:19:38,252 - INFO - ✅ Face data processing complete!
+2025-03-19 18:19:38,252 - INFO - ✔️ Voter Faces: 1
+2025-03-19 18:19:38,252 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 18:19:38,252 - INFO - ✔️ LFW Faces: 13495
+2025-03-19 18:19:38,252 - INFO - ⚠️ Skipped Images: 260
+2025-03-19 18:19:38,253 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:11:41,979 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:11:42,120 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:11:42,120 - INFO - ✅ Face data processing complete!
+2025-03-19 19:11:42,120 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:11:42,120 - INFO - ✔️ Candidate Faces: 0
+2025-03-19 19:11:42,120 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:11:42,120 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:14:26,777 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:14:26,907 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:14:26,907 - INFO - ✅ Face data processing complete!
+2025-03-19 19:14:26,907 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:14:26,907 - INFO - ✔️ Candidate Faces: 0
+2025-03-19 19:14:26,907 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:14:26,908 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:18:01,820 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:18:01,949 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:18:01,949 - INFO - ✅ Face data processing complete!
+2025-03-19 19:18:01,949 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:18:01,949 - INFO - ✔️ Candidate Faces: 0
+2025-03-19 19:18:01,949 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:18:01,949 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:19:09,317 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:19:09,450 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:19:09,465 - INFO - ✅ Face data processing complete!
+2025-03-19 19:19:09,465 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:19:09,465 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 19:19:09,465 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:19:09,465 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:20:00,456 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:20:00,586 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:20:00,615 - INFO - ✅ Face data processing complete!
+2025-03-19 19:20:00,615 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:20:00,615 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 19:20:00,615 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:20:00,615 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:28:08,982 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:28:09,119 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:28:09,134 - INFO - ✅ Face data processing complete!
+2025-03-19 19:28:09,134 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:28:09,134 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 19:28:09,134 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:28:09,134 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:37:22,607 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:37:22,737 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:37:22,753 - INFO - ✅ Face data processing complete!
+2025-03-19 19:37:22,753 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:37:22,753 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 19:37:22,753 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:37:22,753 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:38:45,145 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:38:45,283 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:38:45,298 - INFO - ✅ Face data processing complete!
+2025-03-19 19:38:45,298 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:38:45,298 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 19:38:45,298 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:38:45,298 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:40:00,611 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:40:00,742 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:40:00,772 - INFO - ✅ Face data processing complete!
+2025-03-19 19:40:00,772 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:40:00,772 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 19:40:00,772 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:40:00,772 - INFO - ✅ Image processing completed successfully!
+2025-03-19 19:42:34,957 - INFO - ✅ Face Processing Script Started.
+2025-03-19 19:42:35,096 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 19:42:35,124 - INFO - ✅ Face data processing complete!
+2025-03-19 19:42:35,124 - INFO - ✔️ Voter Faces: 0
+2025-03-19 19:42:35,124 - INFO - ✔️ Candidate Faces: 2
+2025-03-19 19:42:35,124 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 19:42:35,124 - INFO - ✅ Image processing completed successfully!
+2025-03-19 20:22:29,687 - INFO - ✅ Face Processing Script Started.
+2025-03-19 20:22:29,814 - INFO - 🔹 Processing candidates images from database...
+2025-03-19 20:22:29,829 - INFO - ✅ Face data processing complete!
+2025-03-19 20:22:29,829 - INFO - ✔️ Voter Faces: 0
+2025-03-19 20:22:29,829 - INFO - ✔️ Candidate Faces: 1
+2025-03-19 20:22:29,829 - INFO - ⚠️ Skipped Images: 0
+2025-03-19 20:22:29,829 - INFO - ✅ Image processing completed successfully!
+2025-03-20 12:39:49,197 - INFO - ✅ Face Processing Script Started.
+2025-03-20 12:39:49,351 - INFO - 🔹 Processing voters images from database...
+2025-03-20 12:39:49,391 - INFO - ✅ Face data processing complete!
+2025-03-20 12:39:49,391 - INFO - ✔️ Voter Faces: 2
+2025-03-20 12:39:49,391 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 12:39:49,391 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 12:39:49,391 - INFO - ✅ Image processing completed successfully!
+2025-03-20 12:40:51,613 - INFO - ✅ Face Processing Script Started.
+2025-03-20 12:40:51,756 - INFO - 🔹 Processing voters images from database...
+2025-03-20 12:40:51,787 - INFO - ✅ Face data processing complete!
+2025-03-20 12:40:51,787 - INFO - ✔️ Voter Faces: 2
+2025-03-20 12:40:51,787 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 12:40:51,787 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 12:40:51,787 - INFO - ✅ Image processing completed successfully!
+2025-03-20 13:46:59,479 - INFO - ✅ Face Processing Script Started.
+2025-03-20 13:46:59,612 - INFO - 🔹 Processing voters images from database...
+2025-03-20 13:46:59,627 - INFO - ✅ Face data processing complete!
+2025-03-20 13:46:59,627 - INFO - ✔️ Voter Faces: 1
+2025-03-20 13:46:59,627 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 13:46:59,627 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 13:46:59,628 - INFO - ✅ Image processing completed successfully!
+2025-03-20 13:50:11,307 - INFO - ✅ Face Processing Script Started.
+2025-03-20 13:50:11,440 - INFO - 🔹 Processing voters images from database...
+2025-03-20 13:50:11,456 - INFO - ✅ Face data processing complete!
+2025-03-20 13:50:11,456 - INFO - ✔️ Voter Faces: 1
+2025-03-20 13:50:11,456 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 13:50:11,456 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 13:50:11,456 - INFO - ✅ Image processing completed successfully!
+2025-03-20 14:16:42,107 - INFO - ✅ Face Processing Script Started.
+2025-03-20 14:16:42,245 - INFO - 🔹 Processing voters images from database...
+2025-03-20 14:16:42,260 - INFO - ✅ Face data processing complete!
+2025-03-20 14:16:42,260 - INFO - ✔️ Voter Faces: 1
+2025-03-20 14:16:42,260 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 14:16:42,260 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 14:16:42,260 - INFO - ✅ Image processing completed successfully!
+2025-03-20 14:53:34,484 - INFO - ✅ Face Processing Script Started.
+2025-03-20 14:53:34,617 - INFO - 🔹 Processing candidates images from database...
+2025-03-20 14:53:34,647 - INFO - ✅ Face data processing complete!
+2025-03-20 14:53:34,647 - INFO - ✔️ Voter Faces: 0
+2025-03-20 14:53:34,647 - INFO - ✔️ Candidate Faces: 2
+2025-03-20 14:53:34,647 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 14:53:34,647 - INFO - ✅ Image processing completed successfully!
+2025-03-20 14:58:04,336 - INFO - ✅ Face Processing Script Started.
+2025-03-20 14:58:04,469 - INFO - 🔹 Processing candidates images from database...
+2025-03-20 14:58:04,498 - INFO - ✅ Face data processing complete!
+2025-03-20 14:58:04,498 - INFO - ✔️ Voter Faces: 0
+2025-03-20 14:58:04,498 - INFO - ✔️ Candidate Faces: 2
+2025-03-20 14:58:04,498 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 14:58:04,498 - INFO - ✅ Image processing completed successfully!
+2025-03-20 14:59:45,400 - INFO - ✅ Face Processing Script Started.
+2025-03-20 14:59:45,533 - INFO - 🔹 Processing candidates images from database...
+2025-03-20 14:59:45,549 - INFO - ✅ Face data processing complete!
+2025-03-20 14:59:45,549 - INFO - ✔️ Voter Faces: 0
+2025-03-20 14:59:45,549 - INFO - ✔️ Candidate Faces: 1
+2025-03-20 14:59:45,549 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 14:59:45,549 - INFO - ✅ Image processing completed successfully!
+2025-03-20 17:15:32,800 - INFO - ✅ Face Processing Script Started.
+2025-03-20 17:15:32,936 - INFO - 🔹 Processing candidates images from database...
+2025-03-20 17:15:32,964 - INFO - ✅ Face data processing complete!
+2025-03-20 17:15:32,964 - INFO - ✔️ Voter Faces: 0
+2025-03-20 17:15:32,964 - INFO - ✔️ Candidate Faces: 2
+2025-03-20 17:15:32,964 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 17:15:32,964 - INFO - ✅ Image processing completed successfully!
+2025-03-20 17:19:24,789 - INFO - ✅ Face Processing Script Started.
+2025-03-20 17:19:24,915 - INFO - 🔹 Processing voters images from database...
+2025-03-20 17:19:24,943 - INFO - ✅ Face data processing complete!
+2025-03-20 17:19:24,943 - INFO - ✔️ Voter Faces: 2
+2025-03-20 17:19:24,943 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 17:19:24,943 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 17:19:24,943 - INFO - ✅ Image processing completed successfully!
+2025-03-20 17:20:17,112 - INFO - ✅ Face Processing Script Started.
+2025-03-20 17:20:17,245 - INFO - 🔹 Processing candidates images from database...
+2025-03-20 17:20:17,275 - INFO - ✅ Face data processing complete!
+2025-03-20 17:20:17,275 - INFO - ✔️ Voter Faces: 0
+2025-03-20 17:20:17,275 - INFO - ✔️ Candidate Faces: 2
+2025-03-20 17:20:17,275 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 17:20:17,275 - INFO - ✅ Image processing completed successfully!
+2025-03-20 17:20:31,868 - INFO - ✅ Face Processing Script Started.
+2025-03-20 17:20:32,003 - INFO - 🔹 Processing voters images from database...
+2025-03-20 17:20:32,034 - INFO - ✅ Face data processing complete!
+2025-03-20 17:20:32,034 - INFO - ✔️ Voter Faces: 2
+2025-03-20 17:20:32,034 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 17:20:32,034 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 17:20:32,034 - INFO - ✅ Image processing completed successfully!
+2025-03-20 22:24:10,252 - INFO - ✅ Face Processing Script Started.
+2025-03-20 22:24:10,391 - INFO - 🔹 Processing voters images from database...
+2025-03-20 22:24:10,437 - INFO - ✅ Face data processing complete!
+2025-03-20 22:24:10,437 - INFO - ✔️ Voter Faces: 3
+2025-03-20 22:24:10,437 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 22:24:10,437 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 22:24:10,437 - INFO - ✅ Image processing completed successfully!
+2025-03-20 22:24:34,686 - INFO - ✅ Face Processing Script Started.
+2025-03-20 22:24:34,824 - INFO - 🔹 Processing voters images from database...
+2025-03-20 22:24:34,868 - INFO - ✅ Face data processing complete!
+2025-03-20 22:24:34,868 - INFO - ✔️ Voter Faces: 3
+2025-03-20 22:24:34,868 - INFO - ✔️ Candidate Faces: 0
+2025-03-20 22:24:34,868 - INFO - ⚠️ Skipped Images: 0
+2025-03-20 22:24:34,868 - INFO - ✅ Image processing completed successfully!
+2025-03-21 01:04:54,494 - INFO - ✅ Face Processing Script Started.
+2025-03-21 01:04:54,620 - INFO - 🔹 Processing voters images from database...
+2025-03-21 01:04:54,675 - INFO - ✅ Face data processing complete!
+2025-03-21 01:04:54,675 - INFO - ✔️ Voter Faces: 4
+2025-03-21 01:04:54,675 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 01:04:54,675 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 01:04:54,675 - INFO - ✅ Image processing completed successfully!
+2025-03-21 01:05:09,635 - INFO - ✅ Face Processing Script Started.
+2025-03-21 01:05:09,769 - INFO - 🔹 Processing voters images from database...
+2025-03-21 01:05:09,826 - INFO - ✅ Face data processing complete!
+2025-03-21 01:05:09,826 - INFO - ✔️ Voter Faces: 4
+2025-03-21 01:05:09,826 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 01:05:09,826 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 01:05:09,826 - INFO - ✅ Image processing completed successfully!
+2025-03-21 01:09:45,977 - INFO - ✅ Face Processing Script Started.
+2025-03-21 01:09:46,102 - INFO - 🔹 Processing voters images from database...
+2025-03-21 01:09:46,171 - INFO - ✅ Face data processing complete!
+2025-03-21 01:09:46,171 - INFO - ✔️ Voter Faces: 5
+2025-03-21 01:09:46,171 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 01:09:46,171 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 01:09:46,172 - INFO - ✅ Image processing completed successfully!
+2025-03-21 01:10:10,349 - INFO - ✅ Face Processing Script Started.
+2025-03-21 01:10:10,480 - INFO - 🔹 Processing voters images from database...
+2025-03-21 01:10:10,548 - INFO - ✅ Face data processing complete!
+2025-03-21 01:10:10,548 - INFO - ✔️ Voter Faces: 5
+2025-03-21 01:10:10,548 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 01:10:10,548 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 01:10:10,548 - INFO - ✅ Image processing completed successfully!
+2025-03-21 03:59:01,491 - INFO - ✅ Face Processing Script Started.
+2025-03-21 03:59:01,630 - INFO - 🔹 Processing candidates images from database...
+2025-03-21 03:59:01,679 - INFO - ✅ Face data processing complete!
+2025-03-21 03:59:01,679 - INFO - ✔️ Voter Faces: 0
+2025-03-21 03:59:01,679 - INFO - ✔️ Candidate Faces: 3
+2025-03-21 03:59:01,679 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 03:59:01,679 - INFO - ✅ Image processing completed successfully!
+2025-03-21 03:59:39,249 - INFO - ✅ Face Processing Script Started.
+2025-03-21 03:59:39,388 - INFO - 🔹 Processing candidates images from database...
+2025-03-21 03:59:39,433 - INFO - ✅ Face data processing complete!
+2025-03-21 03:59:39,433 - INFO - ✔️ Voter Faces: 0
+2025-03-21 03:59:39,433 - INFO - ✔️ Candidate Faces: 3
+2025-03-21 03:59:39,433 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 03:59:39,433 - INFO - ✅ Image processing completed successfully!
+2025-03-21 05:30:42,289 - INFO - ✅ Face Processing Script Started.
+2025-03-21 05:32:31,522 - INFO - ✅ Face Processing Script Started.
+2025-03-21 05:32:31,653 - INFO - 🔹 Processing candidates images from database...
+2025-03-21 05:32:31,698 - INFO - ✅ Face data processing complete!
+2025-03-21 05:32:31,698 - INFO - ✔️ Voter Faces: 0
+2025-03-21 05:32:31,698 - INFO - ✔️ Candidate Faces: 3
+2025-03-21 05:32:31,698 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 05:32:31,698 - INFO - ✅ Image processing completed successfully!
+2025-03-21 05:57:30,837 - INFO - ✅ Face Processing Script Started.
+2025-03-21 05:57:30,977 - INFO - 🔹 Processing voters images from database...
+2025-03-21 05:57:31,062 - INFO - ✅ Face data processing complete!
+2025-03-21 05:57:31,062 - INFO - ✔️ Voter Faces: 6
+2025-03-21 05:57:31,062 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 05:57:31,062 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 05:57:31,062 - INFO - ✅ Image processing completed successfully!
+2025-03-21 05:57:49,137 - INFO - ✅ Face Processing Script Started.
+2025-03-21 05:57:49,273 - INFO - 🔹 Processing candidates images from database...
+2025-03-21 05:57:49,317 - INFO - ✅ Face data processing complete!
+2025-03-21 05:57:49,317 - INFO - ✔️ Voter Faces: 0
+2025-03-21 05:57:49,317 - INFO - ✔️ Candidate Faces: 3
+2025-03-21 05:57:49,317 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 05:57:49,317 - INFO - ✅ Image processing completed successfully!
+2025-03-21 05:57:58,527 - INFO - ✅ Face Processing Script Started.
+2025-03-21 05:57:58,663 - INFO - 🔹 Processing voters images from database...
+2025-03-21 05:57:58,746 - INFO - ✅ Face data processing complete!
+2025-03-21 05:57:58,746 - INFO - ✔️ Voter Faces: 6
+2025-03-21 05:57:58,746 - INFO - ✔️ Candidate Faces: 0
+2025-03-21 05:57:58,746 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 05:57:58,746 - INFO - ✅ Image processing completed successfully!
+2025-03-21 06:32:54,099 - INFO - ✅ Face Processing Script Started.
+2025-03-21 06:32:54,237 - INFO - 🔹 Processing candidates images from database...
+2025-03-21 06:32:54,286 - INFO - ✅ Face data processing complete!
+2025-03-21 06:32:54,286 - INFO - ✔️ Voter Faces: 0
+2025-03-21 06:32:54,286 - INFO - ✔️ Candidate Faces: 3
+2025-03-21 06:32:54,286 - INFO - ⚠️ Skipped Images: 0
+2025-03-21 06:32:54,286 - INFO - ✅ Image processing completed successfully!

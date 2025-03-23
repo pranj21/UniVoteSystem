@@ -1,0 +1,458 @@
+2025-03-17 08:03:13,685 - INFO - ✅ KNN Training Script Started.
+2025-03-17 08:03:13,685 - INFO - ⚡ Training only the voter KNN model...
+2025-03-17 08:03:13,685 - WARNING - ⚠️ No voter dataset found. Skipping voter model training.
+2025-03-17 08:08:06,816 - INFO - ✅ KNN Training Script Started.
+2025-03-17 08:08:06,817 - INFO - ⚡ Training both LFW and voter KNN models...
+2025-03-17 08:08:08,379 - INFO - ✅ KNN Model for LFW trained and saved at 'backend/data/knn_lfw.pkl'!
+2025-03-17 08:08:08,379 - INFO - ✅ Scaler for LFW saved at 'backend/data/scaler_lfw.pkl'!
+2025-03-17 08:08:08,379 - INFO - ✔️ Total LFW Faces Trained: 13344
+2025-03-17 08:08:08,389 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-17 08:08:08,389 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-17 08:08:08,389 - INFO - ✔️ Total Voter Faces Trained: 1
+2025-03-17 10:07:51,499 - INFO - ✅ KNN Training Script Started.
+2025-03-17 10:07:51,500 - INFO - ⚡ Training both LFW and voter KNN models...
+2025-03-17 10:07:53,391 - INFO - ✅ KNN Model for LFW trained and saved at 'backend/data/knn_lfw.pkl'!
+2025-03-17 10:07:53,391 - INFO - ✅ Scaler for LFW saved at 'backend/data/scaler_lfw.pkl'!
+2025-03-17 10:07:53,391 - INFO - ✔️ Total LFW Faces Trained: 13344
+2025-03-17 10:07:53,401 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-17 10:07:53,401 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-17 10:07:53,401 - INFO - ✔️ Total Voter Faces Trained: 1
+2025-03-17 10:28:49,789 - INFO - ✅ KNN Training Script Started.
+2025-03-17 10:28:49,790 - INFO - ⚡ Training only the voter KNN model...
+2025-03-17 10:28:49,792 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-17 10:28:49,792 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-17 10:28:49,792 - INFO - ✔️ Total Voter Faces Trained: 1
+2025-03-19 00:56:04,646 - INFO - ✅ KNN Training Script Started.
+2025-03-19 00:56:04,647 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 00:56:04,648 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 00:56:04,648 - WARNING - ⚠️ No valid Candidate DB images found. Skipping training.
+2025-03-19 00:56:04,648 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 00:57:58,787 - INFO - ✅ KNN Training Script Started.
+2025-03-19 00:57:58,787 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 00:57:58,790 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-19 00:57:58,790 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 00:57:58,791 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 00:57:58,791 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 00:58:02,467 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 00:58:02,526 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-19 00:58:02,526 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-19 00:58:02,526 - INFO - ✔️ Total Voter DB Faces Trained: 2
+2025-03-19 00:58:02,527 - WARNING - ⚠️ No valid Candidate DB images found. Skipping training.
+2025-03-19 00:58:03,868 - INFO - ✅ KNN Model for LFW Dataset trained and saved at 'backend/data/knn_lfw.pkl'!
+2025-03-19 00:58:03,868 - INFO - ✅ Scaler for LFW Dataset saved at 'backend/data/scaler_lfw.pkl'!
+2025-03-19 00:58:03,868 - INFO - ✔️ Total LFW Dataset Faces Trained: 13233
+2025-03-19 00:58:03,875 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 01:51:32,578 - INFO - ✅ KNN Training Script Started.
+2025-03-19 01:51:32,579 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 01:51:32,581 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 01:51:32,582 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 01:51:32,582 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 01:51:32,582 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 01:51:32,582 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 02:03:52,191 - INFO - ✅ KNN Training Script Started.
+2025-03-19 02:03:52,191 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 02:03:52,193 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 02:03:52,195 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 02:03:52,195 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 02:03:52,195 - INFO - ✔️ Total Candidate DB Faces Trained: 1
+2025-03-19 02:03:52,195 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 02:46:19,191 - INFO - ✅ KNN Training Script Started.
+2025-03-19 02:46:19,191 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 02:46:19,193 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 02:46:19,194 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 02:46:19,194 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 02:46:19,194 - INFO - ✔️ Total Candidate DB Faces Trained: 1
+2025-03-19 02:46:19,194 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 11:44:20,556 - INFO - ✅ KNN Training Script Started.
+2025-03-19 11:44:20,557 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 11:44:20,940 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 11:44:20,942 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 11:44:20,942 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 11:44:20,942 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 11:44:20,943 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 11:48:55,858 - INFO - ✅ KNN Training Script Started.
+2025-03-19 11:48:55,859 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 11:48:56,303 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 11:48:56,306 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 11:48:56,306 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 11:48:56,306 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 11:48:56,306 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 12:13:57,861 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:13:57,861 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 12:13:57,866 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-19 12:13:57,866 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 12:13:58,290 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 12:13:58,290 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:14:02,272 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 12:14:02,336 - ERROR - ❌ Expected 128 features per embedding but found 10000
+2025-03-19 12:17:24,786 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:17:24,787 - INFO - 🔹 Extracting voter face embeddings from database...
+2025-03-19 12:17:25,196 - INFO - ✅ Extracted and saved 2 voter face embeddings.
+2025-03-19 12:17:25,196 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 12:17:25,553 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 12:17:25,553 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:17:29,539 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 12:17:29,607 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-19 12:17:29,607 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-19 12:17:29,607 - INFO - ✔️ Total Voter DB Faces Trained: 2
+2025-03-19 12:17:29,608 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 12:17:29,608 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 12:17:29,608 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 12:17:29,879 - ERROR - ❌ Expected 128 features per embedding but found 10000
+2025-03-19 12:21:06,150 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:21:06,151 - INFO - 🔹 Extracting voter face embeddings from database...
+2025-03-19 12:21:06,587 - INFO - ✅ Extracted and saved 2 voter face embeddings.
+2025-03-19 12:21:06,588 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 12:21:06,949 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 12:21:06,949 - INFO - 🔹 Extracting LFW dataset face embeddings...
+2025-03-19 12:25:10,417 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:25:10,418 - INFO - 🔹 Extracting voter face embeddings from database...
+2025-03-19 12:25:10,891 - INFO - ✅ Extracted and saved 2 voter face embeddings.
+2025-03-19 12:25:10,891 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 12:25:11,284 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 12:25:11,284 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:25:15,489 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 12:25:15,550 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-19 12:25:15,550 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-19 12:25:15,550 - INFO - ✔️ Total Voter DB Faces Trained: 2
+2025-03-19 12:25:15,551 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 12:25:15,551 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 12:25:15,551 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 12:25:15,820 - ERROR - ❌ Expected 128 features per embedding but found 10000
+2025-03-19 12:26:01,383 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:26:01,383 - INFO - 🔹 Extracting candidate face embeddings from database...
+2025-03-19 12:26:01,746 - INFO - ✅ Extracted and saved 2 candidate face embeddings.
+2025-03-19 12:26:01,747 - INFO - ✅ KNN Model for Candidate DB trained and saved at 'backend/data/knn_candidate.pkl'!
+2025-03-19 12:26:01,747 - INFO - ✅ Scaler for Candidate DB saved at 'backend/data/scaler_candidate.pkl'!
+2025-03-19 12:26:01,747 - INFO - ✔️ Total Candidate DB Faces Trained: 2
+2025-03-19 12:26:01,747 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 12:33:50,468 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:33:50,469 - INFO - 🔹 Extracting voter face embeddings from database...
+2025-03-19 12:33:50,912 - INFO - ✅ Extracted and saved 2 voter face embeddings.
+2025-03-19 12:33:50,914 - INFO - ✅ KNN Model for Voter DB trained and saved at 'backend/data/knn_voter.pkl'!
+2025-03-19 12:33:50,914 - INFO - ✅ Scaler for Voter DB saved at 'backend/data/scaler_voter.pkl'!
+2025-03-19 12:33:50,914 - INFO - ✔️ Total Voter DB Faces Trained: 2
+2025-03-19 12:33:50,914 - INFO - ✅ KNN Training Completed Successfully!
+2025-03-19 12:40:45,758 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:41:07,461 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:49:08,073 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:49:08,074 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 12:49:08,077 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-19 12:49:08,077 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 12:49:08,498 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 12:49:08,498 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:49:12,512 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 12:49:19,697 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:49:19,698 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 12:49:19,701 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-19 12:49:19,701 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 12:49:20,047 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 12:49:20,047 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:49:22,541 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 12:49:40,483 - INFO - ✅ KNN Training Script Started.
+2025-03-19 12:49:40,483 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 12:49:40,486 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-19 12:49:40,486 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 12:49:40,853 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 12:49:40,853 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 12:49:43,391 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 15:38:08,223 - INFO - ✅ KNN Training Script Started.
+2025-03-19 15:38:08,224 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 15:38:08,226 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 15:38:08,226 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 15:38:08,402 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 15:38:08,402 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 15:38:12,486 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 15:39:31,527 - INFO - ✅ KNN Training Script Started.
+2025-03-19 15:39:31,528 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 15:39:31,529 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 15:39:31,529 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 15:39:31,742 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 15:39:31,742 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 15:39:35,965 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 15:45:57,726 - INFO - ✅ KNN Training Script Started.
+2025-03-19 15:45:57,726 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 15:45:57,728 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 15:45:57,728 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 15:45:57,966 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 15:45:57,966 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 15:46:02,171 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 15:49:21,719 - INFO - ✅ KNN Training Script Started.
+2025-03-19 15:49:21,719 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 15:49:21,721 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 15:49:21,721 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 15:49:21,949 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 15:49:21,949 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 15:49:26,081 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 15:51:39,668 - INFO - ✅ KNN Training Script Started.
+2025-03-19 15:51:39,669 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 15:51:39,671 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 15:51:39,671 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 15:51:39,882 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 15:51:39,882 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 15:51:44,044 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 18:02:38,070 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:02:38,070 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 18:02:38,073 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 18:02:38,073 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:02:38,299 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 18:02:38,299 - INFO - 🔹 Extracting LFW dataset faces...
+2025-03-19 18:02:42,600 - INFO - ✅ Extracted and saved 13233 LFW faces.
+2025-03-19 18:06:25,797 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:06:31,055 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:06:31,056 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:06:31,286 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 18:06:31,286 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:06:31,287 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:19:47,122 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:19:53,659 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:19:53,660 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:19:53,893 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 18:19:53,893 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:19:53,895 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:20:08,590 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:20:08,590 - INFO - 🔹 Extracting voters faces from database...
+2025-03-19 18:20:08,591 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-19 18:20:08,592 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:20:08,593 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-19 18:20:27,997 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:23:08,311 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:23:08,311 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:23:08,665 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 18:23:08,665 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:23:08,666 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:23:52,482 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:23:52,483 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:23:52,994 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:23:52,994 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:23:52,995 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:32:43,462 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:32:43,463 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:32:44,005 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:32:44,006 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:32:44,007 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:37:58,232 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:37:58,234 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:37:58,787 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:37:58,787 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:37:58,788 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:41:54,151 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:41:54,152 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:41:54,699 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:41:54,699 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:41:54,700 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:42:48,886 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:42:48,887 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:42:49,410 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:42:49,410 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:42:49,411 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:43:56,999 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:43:57,000 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:43:57,562 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-19 18:43:57,563 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:43:57,564 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:46:17,314 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:46:17,315 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:46:18,003 - INFO - ✅ Extracted and saved 4 candidates faces.
+2025-03-19 18:46:18,004 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:46:18,004 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:53:16,341 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:53:16,341 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:53:17,179 - INFO - ✅ Extracted and saved 5 candidates faces.
+2025-03-19 18:53:17,180 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 18:55:38,595 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:55:38,595 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:55:38,595 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 18:55:38,596 - WARNING - ⚠️ No data to train the Candidate DB model. Skipping training.
+2025-03-19 18:57:12,020 - INFO - ✅ KNN Training Script Started.
+2025-03-19 18:57:12,021 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 18:57:12,194 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 18:57:12,195 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 18:57:12,195 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:04:44,446 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:04:44,446 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:04:44,447 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 19:04:44,447 - WARNING - ⚠️ No data to train the Candidate DB model. Skipping training.
+2025-03-19 19:05:32,219 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:05:32,220 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:05:32,398 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 19:05:32,398 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:05:32,399 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:11:54,172 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:11:54,173 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:11:54,173 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 19:11:54,173 - WARNING - ⚠️ No data to train the Candidate DB model. Skipping training.
+2025-03-19 19:14:41,111 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:14:41,111 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:14:41,112 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 19:14:41,112 - WARNING - ⚠️ No data to train the Candidate DB model. Skipping training.
+2025-03-19 19:18:18,038 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:18:18,039 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:18:18,039 - INFO - ✅ Extracted and saved 0 candidates faces.
+2025-03-19 19:18:18,039 - WARNING - ⚠️ No data to train the Candidate DB model. Skipping training.
+2025-03-19 19:19:10,314 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:19:10,315 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:19:10,488 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 19:19:10,488 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:19:10,489 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:20:01,533 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:20:01,534 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:20:01,884 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 19:20:01,884 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:20:01,885 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:28:09,929 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:28:09,929 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:28:10,103 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 19:28:10,104 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:28:10,104 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:37:32,000 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:37:32,000 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:37:32,236 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 19:37:32,236 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:37:32,237 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:38:46,194 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:38:46,194 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:38:46,371 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 19:38:46,371 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:38:46,372 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:40:01,701 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:40:01,701 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:40:02,036 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 19:40:02,036 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:40:02,037 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 19:42:36,045 - INFO - ✅ KNN Training Script Started.
+2025-03-19 19:42:36,046 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 19:42:36,415 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-19 19:42:36,415 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 19:42:36,416 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-19 20:22:30,740 - INFO - ✅ KNN Training Script Started.
+2025-03-19 20:22:30,741 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-19 20:22:30,948 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-19 20:22:30,948 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-19 20:22:30,950 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 12:39:50,543 - INFO - ✅ KNN Training Script Started.
+2025-03-20 12:39:50,544 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 12:39:50,546 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-20 12:39:50,546 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 12:39:50,548 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 12:41:04,478 - INFO - ✅ KNN Training Script Started.
+2025-03-20 12:41:04,479 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 12:41:04,481 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-20 12:41:04,481 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 12:41:04,483 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 13:47:00,586 - INFO - ✅ KNN Training Script Started.
+2025-03-20 13:47:00,587 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 13:47:00,588 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-20 13:47:00,588 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 13:47:00,589 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 13:50:04,665 - INFO - ✅ KNN Training Script Started.
+2025-03-20 13:50:04,666 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 13:50:04,667 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-20 13:50:04,667 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 13:50:04,669 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 13:50:15,882 - INFO - ✅ KNN Training Script Started.
+2025-03-20 13:50:15,882 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 13:50:15,883 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-20 13:50:15,884 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 13:50:15,885 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 14:16:43,173 - INFO - ✅ KNN Training Script Started.
+2025-03-20 14:16:43,174 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 14:16:43,175 - INFO - ✅ Extracted and saved 1 voters faces.
+2025-03-20 14:16:43,175 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 14:16:43,177 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 14:53:35,567 - INFO - ✅ KNN Training Script Started.
+2025-03-20 14:53:35,568 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 14:53:35,930 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-20 14:53:35,930 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 14:53:35,931 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 14:57:54,938 - INFO - ✅ KNN Training Script Started.
+2025-03-20 14:57:54,939 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 14:57:55,274 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-20 14:57:55,274 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 14:57:55,275 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 14:58:09,330 - INFO - ✅ KNN Training Script Started.
+2025-03-20 14:58:09,331 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 14:58:09,676 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-20 14:58:09,676 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 14:58:09,677 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 14:59:49,453 - INFO - ✅ KNN Training Script Started.
+2025-03-20 14:59:49,453 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 14:59:49,638 - INFO - ✅ Extracted and saved 1 candidates faces.
+2025-03-20 14:59:49,638 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 14:59:49,639 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 17:15:33,873 - INFO - ✅ KNN Training Script Started.
+2025-03-20 17:15:33,874 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 17:15:34,217 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-20 17:15:34,217 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 17:15:34,218 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 17:19:25,834 - INFO - ✅ KNN Training Script Started.
+2025-03-20 17:19:25,835 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 17:19:25,837 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-20 17:19:25,837 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 17:19:25,838 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 17:20:20,738 - INFO - ✅ KNN Training Script Started.
+2025-03-20 17:20:20,738 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-20 17:20:21,088 - INFO - ✅ Extracted and saved 2 candidates faces.
+2025-03-20 17:20:21,088 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 17:20:21,089 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-20 17:20:43,547 - INFO - ✅ KNN Training Script Started.
+2025-03-20 17:20:43,547 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 17:20:43,549 - INFO - ✅ Extracted and saved 2 voters faces.
+2025-03-20 17:20:43,550 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 17:20:43,551 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 22:24:11,356 - INFO - ✅ KNN Training Script Started.
+2025-03-20 22:24:11,356 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 22:24:11,359 - INFO - ✅ Extracted and saved 3 voters faces.
+2025-03-20 22:24:11,360 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 22:24:11,361 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-20 22:24:44,349 - INFO - ✅ KNN Training Script Started.
+2025-03-20 22:24:44,349 - INFO - 🔹 Extracting voters faces from database...
+2025-03-20 22:24:44,352 - INFO - ✅ Extracted and saved 3 voters faces.
+2025-03-20 22:24:44,352 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-20 22:24:44,354 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 01:04:55,573 - INFO - ✅ KNN Training Script Started.
+2025-03-21 01:04:55,574 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 01:04:55,577 - INFO - ✅ Extracted and saved 4 voters faces.
+2025-03-21 01:04:55,577 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 01:04:55,579 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 01:05:12,933 - INFO - ✅ KNN Training Script Started.
+2025-03-21 01:05:12,934 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 01:05:12,937 - INFO - ✅ Extracted and saved 4 voters faces.
+2025-03-21 01:05:12,938 - WARNING - ⚠️ The Voter DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 01:05:12,939 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 01:09:47,067 - INFO - ✅ KNN Training Script Started.
+2025-03-21 01:09:47,068 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 01:09:47,072 - INFO - ✅ Extracted and saved 5 voters faces.
+2025-03-21 01:09:47,073 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 01:10:13,728 - INFO - ✅ KNN Training Script Started.
+2025-03-21 01:10:13,729 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 01:10:13,733 - INFO - ✅ Extracted and saved 5 voters faces.
+2025-03-21 01:10:13,735 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 03:59:02,603 - INFO - ✅ KNN Training Script Started.
+2025-03-21 03:59:02,603 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-21 03:59:03,154 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-21 03:59:03,155 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 03:59:03,156 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-21 03:59:54,313 - INFO - ✅ KNN Training Script Started.
+2025-03-21 03:59:54,314 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-21 03:59:54,863 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-21 03:59:54,863 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 03:59:54,865 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-21 05:32:37,348 - INFO - ✅ KNN Training Script Started.
+2025-03-21 05:32:37,348 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-21 05:32:37,856 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-21 05:32:37,856 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 05:32:37,857 - INFO - ✅ Candidate DB KNN model trained and saved.
+2025-03-21 05:57:31,946 - INFO - ✅ KNN Training Script Started.
+2025-03-21 05:57:31,946 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 05:57:31,951 - INFO - ✅ Extracted and saved 6 voters faces.
+2025-03-21 05:57:31,953 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 05:58:07,891 - INFO - ✅ KNN Training Script Started.
+2025-03-21 05:58:07,892 - INFO - 🔹 Extracting voters faces from database...
+2025-03-21 05:58:07,896 - INFO - ✅ Extracted and saved 6 voters faces.
+2025-03-21 05:58:07,898 - INFO - ✅ Voter DB KNN model trained and saved.
+2025-03-21 06:33:03,540 - INFO - ✅ KNN Training Script Started.
+2025-03-21 06:33:03,540 - INFO - 🔹 Extracting candidates faces from database...
+2025-03-21 06:33:04,130 - INFO - ✅ Extracted and saved 3 candidates faces.
+2025-03-21 06:33:04,130 - WARNING - ⚠️ The Candidate DB dataset has fewer than 5 samples. KNN may not perform well.
+2025-03-21 06:33:04,132 - INFO - ✅ Candidate DB KNN model trained and saved.

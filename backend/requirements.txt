@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+dlib
+scikit-learn
+scipy
+pickle5
+pandas

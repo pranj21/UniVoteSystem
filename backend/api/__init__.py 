@@ -1,0 +1,6 @@
+# backend/api/__init__.py
+"""
+This package contains API routes for the UniVote backend.
+"""
+
+print("✅ API package initialized successfully!")

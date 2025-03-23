@@ -1,0 +1,33 @@
+{
+  "include": [
+    "src",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/.server/**/*",
+    "**/.client/**/*",
+    ".react-router/types/**/*"
+  ],
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "types": ["node", "vite/client"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "rootDirs": [".", "./.react-router/types"],
+    "paths": {
+      "~/*": ["./src/*"]
+    },
+    "esModuleInterop": true,
+    "verbatimModuleSyntax": true,
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "sourceMap": true,  // ✅ Enables source maps for debugging
+    "inlineSources": true,  // ✅ Improves debugging by inlining sources
+    "allowJs": true,  // ✅ Allows JavaScript files in case of mixed codebases
+    "allowSyntheticDefaultImports": true // ✅ Ensures compatibility with Vite's ES Modules
+  }
+}

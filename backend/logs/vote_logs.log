@@ -1,0 +1,95 @@
+2025-03-21 01:01:25,231 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 01:02:48,233 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=c46a9a1dcb6618f241d3dcf97dd662538a7634a3de82282b54ec1a2381b58f5d
+2025-03-21 01:05:56,365 - INFO - ✅ Vote recorded: UniversityID=40f80d925a41be41048bbbb6efa16171268d5adefc804c5bf4ce2993c9a0be02, CandidateID=f47494bbaaeac2c9aba56cdb7894c0a7e8ee2d30e50187ce0ac739d0be21caf6
+2025-03-21 01:05:56,366 - INFO - ✅ Voter status updated: UniversityID=40f80d925a41be41048bbbb6efa16171268d5adefc804c5bf4ce2993c9a0be02, hasVoted=True
+2025-03-21 01:05:56,366 - INFO - ✅ Vote successfully cast by UniversityID=40f80d925a41be41048bbbb6efa16171268d5adefc804c5bf4ce2993c9a0be02
+2025-03-21 01:07:37,543 - INFO - ✅ Vote recorded: UniversityID=533ecb109fdf248d1c529837cee8aea6fb548d2944c29f8584e8dee49622d5bb, CandidateID=ce46132e7c49a2290feee46e579a2ad9f8ec3a4f1592a0612aaf5cddcfb9ea49
+2025-03-21 01:07:37,544 - INFO - ✅ Voter status updated: UniversityID=533ecb109fdf248d1c529837cee8aea6fb548d2944c29f8584e8dee49622d5bb, hasVoted=True
+2025-03-21 01:07:37,544 - INFO - ✅ Vote successfully cast by UniversityID=533ecb109fdf248d1c529837cee8aea6fb548d2944c29f8584e8dee49622d5bb
+2025-03-21 01:08:31,421 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=c284fb412a5ef8874b8c6b3f1f183364025c9ddfcc9caad625c3cb061dbc61a9
+2025-03-21 01:12:12,259 - INFO - ✅ Vote recorded: UniversityID=3e48ed4ffa9f1c995ae06b8f3888163557f458f8ff1f1c18379eeb1a3151401a, CandidateID=f47494bbaaeac2c9aba56cdb7894c0a7e8ee2d30e50187ce0ac739d0be21caf6
+2025-03-21 01:12:12,260 - INFO - ✅ Voter status updated: UniversityID=3e48ed4ffa9f1c995ae06b8f3888163557f458f8ff1f1c18379eeb1a3151401a, hasVoted=True
+2025-03-21 01:12:12,260 - INFO - ✅ Vote successfully cast by UniversityID=3e48ed4ffa9f1c995ae06b8f3888163557f458f8ff1f1c18379eeb1a3151401a
+2025-03-21 02:13:15,683 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:13:35,390 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:17:02,905 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:18:13,379 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:18:17,827 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:05,519 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:27:18,043 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:27:22,783 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:25,360 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:25,609 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:25,791 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:25,947 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:26,085 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:26,258 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:30,121 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:32,761 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:27:58,395 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:28:03,505 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:28:44,261 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:28:53,459 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 02:28:57,776 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:29:05,597 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:29:08,705 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:34:58,090 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:34:59,996 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:35:03,178 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 02:37:47,822 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 03:10:56,902 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:11:49,865 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:16:45,934 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:23:45,381 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:23:56,824 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:25:09,951 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:25:32,250 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:25:37,274 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:26:49,473 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:27:02,855 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:30:09,642 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:32:27,974 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:34:52,320 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:39:29,624 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:39:46,891 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:41:16,040 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:41:23,233 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:46:21,768 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 03:47:26,153 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:00:32,321 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:18:40,091 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:26:40,671 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:28:46,220 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:36:04,461 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:36:40,334 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 04:54:45,754 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=c46a9a1dcb6618f241d3dcf97dd662538a7634a3de82282b54ec1a2381b58f5d
+2025-03-21 05:00:32,353 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 05:06:06,926 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 05:07:12,266 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=c46a9a1dcb6618f241d3dcf97dd662538a7634a3de82282b54ec1a2381b58f5d
+2025-03-21 05:26:30,904 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=c46a9a1dcb6618f241d3dcf97dd662538a7634a3de82282b54ec1a2381b58f5d
+2025-03-21 05:29:39,519 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 05:31:48,502 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:43:24,229 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:43:49,269 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:44:28,845 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:45:41,615 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:46:32,263 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 05:58:52,810 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:01:34,108 - INFO - ✅ Vote recorded: UniversityID=ce46132e7c49a2290feee46e579a2ad9f8ec3a4f1592a0612aaf5cddcfb9ea49, CandidateID=f47494bbaaeac2c9aba56cdb7894c0a7e8ee2d30e50187ce0ac739d0be21caf6
+2025-03-21 06:01:34,108 - INFO - ✅ Voter status updated: UniversityID=ce46132e7c49a2290feee46e579a2ad9f8ec3a4f1592a0612aaf5cddcfb9ea49, hasVoted=True
+2025-03-21 06:01:34,109 - INFO - ✅ Vote successfully cast by UniversityID=ce46132e7c49a2290feee46e579a2ad9f8ec3a4f1592a0612aaf5cddcfb9ea49
+2025-03-21 06:03:08,923 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 06:05:54,081 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=40f80d925a41be41048bbbb6efa16171268d5adefc804c5bf4ce2993c9a0be02
+2025-03-21 06:06:26,279 - WARNING - ⚠️ Duplicate vote attempt by UniversityID=40f80d925a41be41048bbbb6efa16171268d5adefc804c5bf4ce2993c9a0be02
+2025-03-21 06:11:48,635 - INFO - ✅ Election results retrieved successfully.
+2025-03-21 06:30:02,053 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:33:38,770 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:33:46,411 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:34:24,937 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:34:53,161 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 06:47:11,267 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 07:32:00,498 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 07:32:24,513 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 07:45:45,133 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 07:49:05,493 - INFO - ✅ Logging system initialized successfully!
+2025-03-21 07:49:19,719 - INFO - ✅ Logging system initialized successfully!
